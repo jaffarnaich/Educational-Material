@@ -35,8 +35,8 @@ def main():
     if st.button("Submit"):
         if user_guess.lower() == correct_word:
             st.success("🎉 Correct! Well done!")
-    else:
-        st.error(f"❌ Incorrect. The correct word was: **{correct_word}**")
+            else:
+                st.error(f"❌ Incorrect. The correct word was: **{correct_word}**")
 
     # Play Again Button
     if st.button("🔄 Try Another"):
