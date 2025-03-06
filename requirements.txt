@@ -52,3 +52,4 @@ pandas
 deep-translator
 matplotlib
 translate
+googletrans
