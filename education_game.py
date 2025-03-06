@@ -20,7 +20,7 @@ def main():
         "qicklu": "quickly",
         "laziy": "lazy",
         "tredi": "tired",
-        "k": "sick",
+        "kcis": "sick",
     }
 
     # Select a word only if it’s not already stored
