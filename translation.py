@@ -1,5 +1,5 @@
 import streamlit as st
-from translate import Translator
+from googletrans import Translator
 
 def show_translation_page():
     st.title("🌍 Translation Page")
